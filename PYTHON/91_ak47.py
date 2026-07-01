@@ -1,0 +1,1 @@
+print('ak'*int(input()))
