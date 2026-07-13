@@ -1,0 +1,5 @@
+X,Y,T=map(int,input().split())
+a=100-(X*T)+(Y*(T//2))
+print(a)
+if a<=50:print("FAIL")
+else:print("PASS")
