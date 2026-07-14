@@ -26,3 +26,4 @@ else:
             print(result-abs(p-y))
             break
         power+=1
+
